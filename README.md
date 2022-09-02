@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [sirajulislam.com](sirajulislam.com)
+- 👨‍💻 All of my projects are available at **sirajulislam.com**
 
 - 💬 Ask me about **PHP, Laravel**
 
